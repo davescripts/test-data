@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,
+    "author":"Ralph Waldo Emerson",
+    "content":"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+  },
+  {
+    "id":2,
+    "author":"J.K. Rowling, Harry Potter and the Goblet of Fire",
+    "content":"If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals."
+  },
+  {
+    "id":3,
+    "author":"Bernard M. Baruch",
+    "content":"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind."
+  },
+  {
+    "id":4,
+    "author":"Maya Angelou",
+    "content":"I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+  },
+  {
+    "id":5,
+    "author":"Robert Frost",
+    "content":"In three words I can sum up everything I've learned about life: it goes on."
+  },
+  {
+    "id":6,
+    "author":"Allen Saunders",
+    "content":"Life is what happens to us while we are making other plans."
+  },
+  {
+    "id":7,
+    "author":"Albert Einstein",
+    "content":"If you can't explain it to a six year old, you don't understand it yourself."
+  }
+]
